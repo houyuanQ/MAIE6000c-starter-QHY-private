@@ -2,8 +2,8 @@
 
 ## Student information
 
-- Name:
-- Student ID:
+- Name: Houyuan Qin
+- Student ID: 21313307
 - Repository: https://github.com/houyuanQ/MAIE6000c-starter-QHY-private
 - Checkpoint tag: `w03-readiness`
 - Commit SHA:
@@ -40,4 +40,4 @@ Before this change the API could create a job and read one job by id, but it cou
 
 - Tool: Cursor, using Grok 4.7.
 - Used to read the Week 3 lab brief, inspect the starter API, and implement `GET /jobs` plus its integration tests and this note.
-- I checked the diff against the starter and re-ran the unit and integration tests. The 7 passing tests match the behaviour described above. The tag `w03-readiness` has not been created yet.
+- I checked the diff against the starter and re-ran the unit and integration tests. The 7 passing tests match the behaviour described above.
